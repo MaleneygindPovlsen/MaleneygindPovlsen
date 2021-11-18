@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Wifey
+- 👀 I’m interested in scripting and making games
+- 🌱 I’m currently learning C++
+- 📫 U can reach to me by discord: Wifley#5207
